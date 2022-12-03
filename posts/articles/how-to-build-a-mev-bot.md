@@ -1,3 +1,11 @@
+---
+title: "How To Build a MEV Bot"
+description: A step-by-step guide about what goes into building a MEV bot from scratch.
+date: "2022-09-09"
+modified_date: "2022-09-09"
+image: /images/articles/article-image.jpg
+---
+
 # How To Build a MEV Bot
 
 #### Sep 9, 2022 | By DeGatchi

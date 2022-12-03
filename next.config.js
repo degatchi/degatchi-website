@@ -1,13 +1,19 @@
 const withMDX = require("@next/mdx")({
   extension: /\.mdx?$/,
-})
+});
+baseUrl = "";
 module.exports = withMDX({
+  trailingSlash: true,
+  basePath: baseUrl,
+  env: {
+    baseUrl,
+  },
   pageExtensions: ["js", "jsx", "md", "mdx"],
   webpack: (config, { isServer }) => {
     // Fixes npm packages (mdx) that depend on `fs` module
     if (!isServer) {
-      config.resolve.fallback.fs = false
+      config.resolve.fallback.fs = false;
     }
-    return config
+    return config;
   },
-})
+});

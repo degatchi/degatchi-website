@@ -1,3 +1,11 @@
+---
+title: "The Areas Of Web3 Development"
+description: Learn about the different fields of development within the Web3 space.
+date: "2022-09-12"
+modified_date: "2022-09-12"
+image: /images/articles/article-image.jpg
+---
+
 # The Areas Of Web3 Development
 
 #### Sep 13, 2022 | By DeGatchi
