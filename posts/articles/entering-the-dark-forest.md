@@ -1,3 +1,11 @@
+---
+title: "Entering The Dark Forest"
+description: Learn about how to research about MEV bots so you can eventually build your own.
+date: "2022-10-11"
+modified_date: "2022-10-11"
+image: /images/articles/article-image.jpg #For SEO
+---
+
 # Entering The Dark Forest
 
 #### Oct 11, 2022 | By DeGatchi

@@ -1,4 +1,6 @@
 import "../styles/globals.css";
+import 'prismjs/themes/prism-coy.css'
+import 'prismjs/plugins/line-numbers/prism-line-numbers.css'
 // import type { AppProps } from "next/app";
 
 // import { Connection } from "../components/Web3Connection/Connection";
